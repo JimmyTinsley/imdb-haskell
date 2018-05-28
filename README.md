@@ -2,7 +2,7 @@
 A Haskell app that save IMDB TOP 250 information in haskell data type and sqlite3 database with some query functions.
 
 ## Compilation
-Open terminal at the project's root directory, and type 'ghc -o imdb Main.hs'. Then you could see the executable file 'imdb'.
+Open terminal at the project's root directory, and type `ghc -o imdb Main.hs` . Then you could see the executable file `imdb`.
 
 ## Dependencies
 Haskell package: Database.HDBC
@@ -20,7 +20,7 @@ Haskell package: Database.HDBC.Sqlite3
 ### Windows
 	imdb.exe <args>
 
-### Args options:
+### `<args>` options:
     createDB                             
  Create database movieDB.db
  
