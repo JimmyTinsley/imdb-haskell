@@ -6,8 +6,10 @@ Open terminal at the project's root directory, and type 'ghc -o imdb Main.hs'. T
 
 ## Dependencies
 Haskell package: Database.HDBC
+
 	cabal install HDBC
 Haskell package: Database.HDBC.Sqlite3
+
 	cabal install HDBC-Sqlite3
 
 ## Usage
