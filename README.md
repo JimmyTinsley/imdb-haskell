@@ -10,12 +10,12 @@ Haskell package: Database.HDBC
 Haskell package: Database.HDBC.Sqlite3
 	cabal install HDBC-Sqlite3
 
-##Usage
+## Usage
 
-###Unix
+### Unix
 	./imdb <args>
 
-###Windows
+### Windows
 	imdb.exe <args>
 
 ### Args options:
